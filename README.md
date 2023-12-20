@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding, Hacking.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on Hacking
-- 📫 You can reach me on @tek.ideas on Instagram.
+
 
 <!---
 White-Devil-15/White-Devil-15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
